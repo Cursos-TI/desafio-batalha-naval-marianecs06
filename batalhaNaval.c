@@ -35,9 +35,9 @@ int main() {
         }
     }
 
-    // ================================
+    
     // Exibição do tabuleiro
-    // ================================
+  
 
     // Cabeçalho das colunas
     printf("   ");
